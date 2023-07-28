@@ -20,4 +20,4 @@ In this repository, contains the practical assignments for various lab sessions 
 
 Happy learning!
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/your-github-username.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/your-github-username)
+[![Follow me on GitHub](https://img.shields.io/github/followers/your-github-username.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/prejin2310)
